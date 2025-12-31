@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rajesh57sharma.github.iorajeshsharma/sitemap.xml
+Sitemap: https://rajesh57sharma.github.io/rajeshsharma/sitemap.xml
